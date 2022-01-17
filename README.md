@@ -1,4 +1,8 @@
-## 💻 Full Stack Developer
+## 💻| 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+
+- 🎓| 𝚄𝙵𝚁𝙽 (𝙱𝚁) | 𝚄𝚘𝚏𝙲 (𝙲𝙰) | 𝙴𝙻𝚃𝙴 (𝙷𝚄)
+- 🗣| 𝙿𝚃 𝙴𝙽 𝙴𝚂 𝙵𝚁
+- 📊| 𝙴𝚗𝚝𝚛𝚎𝚙𝚛𝚎𝚗𝚎𝚞𝚛
 
 <div align="center">
   <a href="https://github.com/andresdslima">
