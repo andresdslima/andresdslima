@@ -26,3 +26,8 @@
   ![Snake animation](https://github.com/andresdslima/andresdslima/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
