@@ -1,7 +1,7 @@
 ## 💻| 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
 - 🎓| 𝚄𝙵𝚁𝙽 (𝙱𝚁) | 𝚄𝚘𝚏𝙲 (𝙲𝙰) | 𝙴𝙻𝚃𝙴 (𝙷𝚄)
-- 🗣| 𝙿𝚃 𝙴𝙽 𝙴𝚂 𝙵𝚁
+- 🌐| 𝙿𝙾𝚁 | 𝙴𝙽𝙶 | 𝙴𝚂𝙿
 - 📊| 𝙴𝚗𝚝𝚛𝚎𝚙𝚛𝚎𝚗𝚎𝚞𝚛
 
 <div align="center">
@@ -19,10 +19,10 @@
 ##
   
 <div> 
-  <a href="https://instagram.com/andres.slima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/698337116677210194" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/andresdslima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:andresdslima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andresdslima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://discordapp.com/users/698337116677210194" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/andres.slima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/andresdslima/andresdslima/blob/output/github-contribution-grid-snake.svg)
   
