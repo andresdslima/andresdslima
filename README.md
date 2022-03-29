@@ -1,6 +1,6 @@
 # 💻| 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 
 
-<img align="right" alt="GIF" src="https://github.com/andresdslima/andresdslima/blob/main/img-dev.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/andresdslima/andresdslima/blob/main/img-dev.gif" width="400" height="300" />
 
 - 🎓| 𝚄𝙵𝚁𝙽 (𝙱𝚁) | 𝚄𝚘𝚏𝙲 (𝙲𝙰)
 - 🌐| 𝙿𝙾𝚁 | 𝙴𝙽𝙶 | 𝙴𝚂𝙿
