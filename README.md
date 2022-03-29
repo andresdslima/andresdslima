@@ -21,7 +21,7 @@
 ##
   
 <div> 
-  <a href="https://www.linkedin.com/in/andresdslima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andrelimadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/698337116677210194" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/andresdslima/andresdslima/blob/output/github-contribution-grid-snake.svg)
