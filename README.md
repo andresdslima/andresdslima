@@ -1,13 +1,15 @@
 # 💻| 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 
 
+<img align="right" alt="GIF" src="https://github.com/andresdslima/andresdslima/blob/main/img-dev.gif" width="500" height="320" />
+
 - 🎓| 𝚄𝙵𝚁𝙽 (𝙱𝚁) | 𝚄𝚘𝚏𝙲 (𝙲𝙰)
 - 🌐| 𝙿𝙾𝚁 | 𝙴𝙽𝙶 | 𝙴𝚂𝙿
 - 📊| 𝙴𝚗𝚝𝚛𝚎𝚙𝚛𝚎𝚗𝚎𝚞𝚛
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/andresdslima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresdslima&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdslima&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresdslima&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" width="400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdslima&layout=compact&langs_count=7&theme=highcontrast" width="400" />
 </div>
   
 <div style="display: inline_block"><br>
