@@ -5,6 +5,7 @@
 ### 🎓| 𝚄𝙵𝚁𝙽 (𝙱𝚁) | 𝚄𝚘𝚏𝙲 (𝙲𝙰)
 ### 🌐| 𝙿𝙾𝚁 | 𝙴𝙽𝙶 | 𝙴𝚂𝙿
 ### 📊| 𝙴𝚗𝚝𝚛𝚎𝚙𝚛𝚎𝚗𝚎𝚞𝚛
+### 🗂️| <a href="https://drive.google.com/file/d/1l9YHtmRq69y3SI6_02g7LZ9Xz89rvsgs/view?usp=sharing" target="_blank">𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Webflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" />
@@ -30,7 +31,6 @@
  <a href="https://discordapp.com/users/698337116677210194" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <br />
-[Portfolio](https://drive.google.com/file/d/1l9YHtmRq69y3SI6_02g7LZ9Xz89rvsgs/view?usp=sharing)
 
 #
 
