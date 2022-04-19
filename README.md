@@ -30,6 +30,7 @@
  <a href="https://discordapp.com/users/698337116677210194" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <br />
+[Portfolio](https://drive.google.com/file/d/1l9YHtmRq69y3SI6_02g7LZ9Xz89rvsgs/view?usp=sharing)
 
 #
 
