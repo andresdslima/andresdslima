@@ -5,7 +5,6 @@
 ### 🎓| 𝚄𝙵𝚁𝙽 (𝙱𝚁) | 𝚄𝚘𝚏𝙲 (𝙲𝙰)
 ### 🌐| 𝙿𝙾𝚁 | 𝙴𝙽𝙶 | 𝙴𝚂𝙿
 ### 📊| 𝙴𝚗𝚝𝚛𝚎𝚙𝚛𝚎𝚗𝚎𝚞𝚛
-### 🗂️| <a href="https://drive.google.com/file/d/1l9YHtmRq69y3SI6_02g7LZ9Xz89rvsgs/view?usp=sharing" target="_blank">𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Webflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" />
@@ -23,6 +22,7 @@
   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img align="center" alt="Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
 <br />
 
