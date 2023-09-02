@@ -6,25 +6,181 @@
 ### 🌐| 𝙿𝙾𝚁 | 𝙴𝙽𝙶 | 𝙴𝚂𝙿
 ### 📊| 𝙴𝚗𝚝𝚛𝚎𝚙𝚛𝚎𝚗𝚎𝚞𝚛
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="Express" height="40" width="50" style="filter: invert(1)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Django" height="40" width="40" style="filter: invert(1)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-  <img align="center" alt="Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-  <img align="center" alt="Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-  <img align="center" alt="iOS" height="40" width="50" style="filter: invert(1)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-  <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-</div>
+<br />
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          height="25"
+          alt="javascript"
+        />
+        JavaScript
+      </td>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+          height="25"
+          alt="typescript"
+        />
+        TypeScript
+      </td>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+          height="25"
+          alt="react"
+        />
+        React
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+          height="25"
+          alt="angular"
+        />
+        Angular
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+          height="25"
+          alt="vue"
+        />
+        Vue
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+          height="25"
+          alt="node"
+        />
+        Node
+      </td>
+      <td>
+        <img
+          src="https://camo.githubusercontent.com/92a295910076b8f4b5baa465654123887e2179e74a00b91713a0122919cb7e13/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373"
+          height="30"
+          alt="express"
+        />
+        Express
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
+          height="30"
+          alt="sequelize"
+        />
+        Sequelize
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+          height="30"
+          alt="python"
+        />
+        Python
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+          height="25"
+          alt="django"
+        />
+        Django
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+          height="40"
+          alt="mysql"
+        />
+        MySQL
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+          height="30"
+          alt="sass"
+        />
+        Sass
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+          height="30"
+          alt="jenkins"
+        />
+        Jenkins
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"
+          height="30"
+          alt="jira"
+        />
+        Jira
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"
+          height="25"
+          alt="android"
+        />
+        Android
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"
+          height="30"
+          alt="ios"
+        />
+        iOS
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+          height="30"
+          alt="firebase"
+        />
+        Firebase
+      </td>
+      <td>
+        <img
+          src="https://camo.githubusercontent.com/9b70a59580f9cdb57e2083a8085cfb55614d3c145cc56ac8a3d3b81870d0f3d1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2e737667"
+          height="30"
+          alt="aws"
+        />
+        AWS
+      </td>
+      <td>
+        <img
+          src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667"
+          height="25"
+          alt="jest"
+        />
+        Jest
+      </td>
+      <td>
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw096u3ueex-hdLDi0vj8x5-qdJRRkK9TabAGWbGnuwg&s"
+          height="30"
+          alt="cypress"
+        />
+        Cypress
+      </td>
+    </tr>
+  </tbody>
+</table>
 <br />
 
 <br />
