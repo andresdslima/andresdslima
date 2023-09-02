@@ -34,6 +34,8 @@
         />
         React
       </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
@@ -42,8 +44,6 @@
         />
         Angular
       </td>
-    </tr>
-    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
@@ -60,6 +60,8 @@
         />
         Node
       </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://camo.githubusercontent.com/92a295910076b8f4b5baa465654123887e2179e74a00b91713a0122919cb7e13/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373"
@@ -76,8 +78,6 @@
         />
         Sequelize
       </td>
-    </tr>
-    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -86,6 +86,8 @@
         />
         Python
       </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
@@ -136,6 +138,8 @@
         />
         Android
       </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"
@@ -144,8 +148,6 @@
         />
         iOS
       </td>
-    </tr>
-    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
@@ -162,6 +164,8 @@
         />
         AWS
       </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667"
