@@ -6,6 +6,11 @@
 ### 🌐| 𝙿𝙾𝚁 | 𝙴𝙽𝙶 | 𝙴𝚂𝙿
 ### 📊| 𝙴𝚗𝚝𝚛𝚎𝚙𝚛𝚎𝚗𝚎𝚞𝚛
 
+<a href="https://www.linkedin.com/in/andrelimadev" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<br />
+
 <br />
 <table>
   <tbody>
@@ -193,17 +198,9 @@
     </tr>
   </tbody>
 </table>
-<br />
-
-<br />
-<div>
-<a href="https://www.linkedin.com/in/andrelimadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-<br />
 
 #
 
-<br />
 <div align="center">
   <a href="https://github.com/andresdslima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresdslima&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" height="100em" />
