@@ -182,6 +182,14 @@
         />
         Cypress
       </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
+          height="35"
+          alt="babel"
+        />
+        Babel
+      </td>
     </tr>
   </tbody>
 </table>
