@@ -201,10 +201,9 @@
 
 #
 
-<div align="center">
-  <a href="https://github.com/andresdslima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresdslima&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" height="100em" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdslima&layout=compact&langs_count=7&theme=highcontrast" height="100em" />
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img style="height: 100%; width: 49%; max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=andresdslima&theme=highcontrast&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height: 100%; width: 49%; max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdslima&layout=compact&theme=highcontrast&langs_count=8"/>
 </div>
   
 <div>
