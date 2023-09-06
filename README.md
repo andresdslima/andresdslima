@@ -189,11 +189,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
-          height="35"
-          alt="babel"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg"
+          height="40"
+          alt="pytest"
         />
-        Babel
+        Pytest
       </td>
     </tr>
   </tbody>
