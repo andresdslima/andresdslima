@@ -77,11 +77,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
           height="30"
-          alt="sequelize"
+          alt="graphql"
         />
-        Sequelize
+        GraphQL
       </td>
       <td>
         <img
