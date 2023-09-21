@@ -129,11 +129,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"
-          height="30"
-          alt="jira"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          height="45"
+          alt="docker"
         />
-        Jira
+        Docker
       </td>
       <td>
         <img
