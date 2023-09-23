@@ -35,9 +35,9 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
           height="25"
-          alt="react"
+          alt="reactjs"
         />
-        React
+        ReactJS
       </td>
     </tr>
     <tr>
@@ -51,11 +51,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-          height="25"
-          alt="vue"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+          height="40"
+          alt="nextjs"
         />
-        Vue
+        NextJS
       </td>
       <td>
         <img
