@@ -51,12 +51,22 @@
       </td>
       <td>
         <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+          height="25"
+          alt="vuejs"
+        />
+        VueJS
+      </td>
+      <td>
+        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
           height="40"
           alt="nextjs"
         />
         NextJS
       </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
@@ -64,16 +74,6 @@
           alt="node"
         />
         Node
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://camo.githubusercontent.com/92a295910076b8f4b5baa465654123887e2179e74a00b91713a0122919cb7e13/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373"
-          height="30"
-          alt="express"
-        />
-        Express
       </td>
       <td>
         <img
