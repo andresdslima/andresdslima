@@ -196,6 +196,50 @@
         Pytest
       </td>
     </tr>
+    <tr>
+      <td>
+        <img
+          src="https://camo.githubusercontent.com/92a295910076b8f4b5baa465654123887e2179e74a00b91713a0122919cb7e13/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373"
+          height="30"
+          alt="express"
+        />
+        Express
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
+          height="30"
+          alt="sequelize"
+        />
+        Sequelize
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+          height="40"
+          alt="mongodb"
+        />
+        MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"
+          height="30"
+          alt="jira"
+        />
+        Jira
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
+          height="35"
+          alt="babel"
+        />
+        Babel
+      </td>
+    </tr>
   </tbody>
 </table>
 
