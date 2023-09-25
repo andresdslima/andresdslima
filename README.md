@@ -45,9 +45,9 @@
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
           height="25"
-          alt="angular"
+          alt="angularjs"
         />
-        Angular
+        AngularJS
       </td>
       <td>
         <img
