@@ -239,6 +239,14 @@
         />
         Babel
       </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+          height="35"
+          alt="bootstrap"
+        />
+        Bootstrap
+      </td>
     </tr>
   </tbody>
 </table>
