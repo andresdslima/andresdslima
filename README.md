@@ -35,9 +35,9 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
           height="25"
-          alt="reactjs"
+          alt="react"
         />
-        ReactJS
+        React
       </td>
     </tr>
     <tr>
@@ -45,25 +45,25 @@
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
           height="25"
-          alt="angularjs"
+          alt="angular"
         />
-        AngularJS
+        Angular
       </td>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
           height="25"
-          alt="vuejs"
+          alt="vue"
         />
-        VueJS
+        Vue
       </td>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
           height="40"
-          alt="nextjs"
+          alt="next"
         />
-        NextJS
+        Next
       </td>
     </tr>
     <tr>
