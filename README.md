@@ -225,11 +225,11 @@
     <tr>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"
           height="30"
-          alt="jira"
+          alt="swift"
         />
-        Jira
+        Swift
       </td>
       <td>
         <img
